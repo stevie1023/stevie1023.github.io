@@ -1,14 +1,20 @@
 ## jemdoc: menu{MENU}{index.html}, nofooter  
-== Mingye Zhu
+== Mingye Zhu (祝铭烨)
 
 Ph.D. Candidate (Master-to-Ph.D. transfer) in College of Cyberspace Security, University of Science and Technology of China (USTC), Hefei, China.
+
 Research focus: LLM alignment.
-Advisors: Prof. Yongdong Zhang, Prof. Zhendong Mao.
+
+Advisors: Prof. [https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html Yongdong Zhang], Prof. [https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm Zhendong Mao].
+
+
 
 Email: steviezhu1 at gmail.com
 
 == About
-I am a Ph.D. candidate at USTC focusing on alignment, safety, and trustworthy behavior of large language models. My work spans alignment training, robust optimization, and inference-time alignment.
+I am a Ph.D. candidate at USTC focusing on alignment, safety, and trustworthy behavior of large language models. My work spans alignment training, robust optimization, and inference-time alignment. 
+
+*I am currently on the job market.*
 
 == Research Interests
 - LLM alignment and safety
