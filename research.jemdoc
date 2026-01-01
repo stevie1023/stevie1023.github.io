@@ -1,0 +1,13 @@
+## jemdoc: menu{MENU}{index.html}, nofooter  
+== Research
+
+=== Large Language Model Alignment (2023 - Present)
+- Conducted research on safety and trustworthy alignment of LLMs, proposing a full-stack alignment paradigm covering alignment training, error correction during learning, and inference-time optimization.
+- Adaptive value alignment training driven by reward signals, improving data efficiency via list-wise preference modeling and unified optimization of offline reward signals.
+- Robust training under distribution shifts via robust optimization with dynamic regularization, mitigating performance degradation in synthetic data scenarios.
+- Instruction-contrastive decoding for inference-time alignment under low-resource constraints by maximizing divergence between constrained and unconstrained policies.
+- Token-level information discrepancy-driven reasoning enhancement with self-generated feedback in a single forward pass.
+
+=== Time Series Prediction (Dec. 2019 - Jun. 2021)
+- Battery capacity prediction and remaining useful life prediction via joint modeling of degradation and regeneration behaviors with GMCM and multi-output Gaussian processes, plus online calibration.
+- Efficient modeling for large-scale multi-output regression using probabilistic circuits and deep mixture-of-experts Gaussian processes with decomposed posterior inference.

@@ -1,0 +1,32 @@
+## jemdoc: menu{MENU}{index.html}, nofooter  
+== Mingye Zhu
+
+Ph.D. Candidate (Master-to-Ph.D. transfer) in College of Cyberspace Security, University of Science and Technology of China (USTC), Hefei, China.
+Research focus: LLM alignment.
+Advisors: Prof. Yongdong Zhang, Prof. Zhendong Mao.
+
+Email: steviezhu1 at gmail.com
+
+== About
+I am a Ph.D. candidate at USTC focusing on alignment, safety, and trustworthy behavior of large language models. My work spans alignment training, robust optimization, and inference-time alignment.
+
+== Research Interests
+- LLM alignment and safety
+- Preference learning and reward modeling
+
+[research.html Research experience].
+
+== Selected Publications
+. Zhu, M., Liu, Y., Fu, Z., Wang, Q., & Mao, Z. (2025). In-Token Rationality Optimization: Towards Accurate and Concise LLM Reasoning via Self-Feedback. AAAI 2026 (Oral).
+. Zhu, M., Liu, Y., Fu, Z., Zhang, Y., & Mao, Z. (2025). Leveraging Robust Optimization for LLM Alignment under Distribution Shifts. NeurIPS 2025.
+. Zhu, M., Liu, Y., Zhang, L., Guo, J., & Mao, Z. On-the-fly Preference Alignment via Principle-Guided Decoding. ICLR 2025.
+
+[publication.html Full list of publications].
+
+== Education
+- University of Science and Technology of China, Ph.D. Candidate (Master-to-Ph.D. Transfer), Sep. 2021 - Jun. 2026 (expected).
+- Technical University of Darmstadt, Undergraduate CSC Exchange Program, Aug. 2019 - Aug. 2020.
+- Nanjing University of Aeronautics and Astronautics, B.Eng. in Automation, Sep. 2017 - Jun. 2021.
+
+== Awards and Activities
+[activity.html Honors, internships, and activities].

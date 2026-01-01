@@ -1,0 +1,12 @@
+## jemdoc: menu{MENU}{index.html}, nofooter  
+== Publications
+
+Published 6 first-author papers in top-tier international conferences and journals.
+
+. Zhu, M., Liu, Y., Fu, Z., Wang, Q., & Mao, Z. (2025). In-Token Rationality Optimization: Towards Accurate and Concise LLM Reasoning via Self-Feedback. AAAI 2026 (Oral).
+. Zhu, M., Liu, Y., Fu, Z., Zhang, Y., & Mao, Z. (2025). Leveraging Robust Optimization for LLM Alignment under Distribution Shifts. arXiv preprint arXiv:2504.05831. NeurIPS 2025.
+. Zhu, M., Liu, Y., Zhang, L., Guo, J., & Mao, Z. On-the-fly Preference Alignment via Principle-Guided Decoding. International Conference on Learning Representations (ICLR) 2025.
+. Zhu, M., Liu, Y., Wang, Q., Guo, J., & Mao, Z. (2024). FlipGuard: Defending Preference Alignment against Update Regression with Constrained Optimization. EMNLP 2024.
+. Zhu, M., Liu, Y., Zhang, L., Guo, J., & Mao, Z. (2024). LIRE: Listwise Reward Enhancement for Preference Alignment. ACL Findings 2024.
+. Zhu, M., Ouyang, Q., Wan, Y., & Wang, Z. (2021). Remaining Useful Life Prediction of Lithium-Ion Batteries: A Hybrid Approach of Grey-Markov Chain Model and Improved Gaussian Process. IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE) 2021.
+. Yu, Z., Zhu, M., Trapp, M., Skryagin, A., & Kersting, K. (2021). Leveraging Probabilistic Circuits for Nonparametric Multi-Output Regression. UAI 2021.
